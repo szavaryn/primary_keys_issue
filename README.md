@@ -1,5 +1,5 @@
 # primary_keys_issue
-Quite widespread issue of wrong duplication of the same object to different unique identifiers.
+Quite widespread issue of wrong attribution of the same object to different unique identifiers.
 
 Let's consider following:
 - We have a food delivery service and we're able to provide it for different restaurants in New York.
